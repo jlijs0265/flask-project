@@ -29,3 +29,6 @@
 
 * makedown 문법
 >https://gist.github.com/ihoneymon/652be052a0727ad59601
+
+* python import 문법
+>https://dojang.io/mod/page/view.php?id=2441
