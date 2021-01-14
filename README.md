@@ -24,5 +24,8 @@
 * visual studio 개발환경에서 Python (Moudle-pakage[개념 잘모름]) 추가 방법
 >https://docs.microsoft.com/ko-kr/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-05-installing-packages?view=vs-2019
 
+* visual studio 개발환경에서 정의로 이동 F12 or Ctrl Click
+>https://docs.microsoft.com/ko-kr/visualstudio/ide/go-to-and-peek-definition?view=vs-2019
+
 * makedown 문법
 >https://gist.github.com/ihoneymon/652be052a0727ad59601
