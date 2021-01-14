@@ -4,6 +4,7 @@
 *Flask Web flamework 사용.
 ```
 1. Pandas 이용하여 Web크롤링으로 데이터 가져오는 예제.
+> Pandas 설치(추가 reference)
 *https://ai-creator.tistory.com/51
 2. 차트 그리기 예제
 *https://excelsior-cjh.tistory.com/109
@@ -17,3 +18,11 @@
 3. 데이터를 입맛에 맞게 그래프로그린다 (꺾은선 예제)
 -https://developers-dot-devsite-v2-prod.appspot.com/chart/interactive/docs/gallery/linechart
 ```
+
+## 추가 reference
+
+* visual studio 개발환경에서 Python (Moudle-pakage[개념 잘모름]) 추가 방법
+>https://docs.microsoft.com/ko-kr/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-05-installing-packages?view=vs-2019
+
+* makedown 문법
+>https://gist.github.com/ihoneymon/652be052a0727ad59601
